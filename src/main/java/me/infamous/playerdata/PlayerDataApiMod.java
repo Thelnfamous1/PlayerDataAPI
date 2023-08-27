@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 
 @Mod(PlayerDataApiMod.MODID)
 public class PlayerDataApiMod {
-    public static final String MODID = "playerdataapi";
+    public static final String MODID = "player_data_api";
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public PlayerDataApiMod() {}
